@@ -12,7 +12,7 @@ public class Overloading
         System.out.println("test2");
     }   
  
-    //以下两个参数类型顺序不同
+    ////////以下两个参数类型顺序不同
     public char test(int a,char s){
         System.out.println("test3");
         return 'r';
